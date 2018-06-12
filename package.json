@@ -1,0 +1,23 @@
+{
+  "name": "fuego",
+  "version": "1.0.0",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "filename.jpg@bk.ru",
+  "license": "MIT",
+  "description": "juego multijugador de navegador",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoom-out/fuego.git"
+  },
+  "keywords": [
+    "fuego"
+  ],
+  "bugs": {
+    "url": "https://github.com/zoom-out/fuego/issues"
+  },
+  "homepage": "https://github.com/zoom-out/fuego#readme"
+}
